@@ -1,5 +1,10 @@
 # Predict Credit Card Customer Churn
 
+# LINK TO MY MEDIUM ARTICLES: 
+# [95% Accuracy! A Step-by-Step Guide to Predicting Customer Churn](https://edwardlongtang.medium.com/95-accuracy-a-step-by-step-guide-to-predicting-customer-churn-460aebf1528a)
+# [Exploring the Depth of Credit Card Churn Data: A Comprehensive EDA Story](https://edwardlongtang.medium.com/exploring-the-depth-of-credit-card-churn-data-959c4e2c5b9a)
+
+
 ## Context
 
 This project utilizes a dataset sourced from Kaggle. [(Link to the Dataset)](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
